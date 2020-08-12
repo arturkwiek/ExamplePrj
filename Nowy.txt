@@ -1,3 +1,4 @@
 Pierwsza zmiana
 Ustalenie punktu bazowego na ga³êzi master przed rozpoczêciem pracy nad nowa "funkcjonalnoœci¹"
 Wprowadzenie nowej funkcjonalnoœci
+Zakoñczenie prac nad funkcjonalnoœci¹
