@@ -1,1 +1,2 @@
 Pierwsza zmiana
+Ustalenie punktu bazowego na ga³êzi master przed rozpoczêciem pracy nad nowa "funkcjonalnoœci¹"
